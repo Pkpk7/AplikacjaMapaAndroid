@@ -39,3 +39,7 @@ Aplikacja korzysta także z geofencingu. Gdy zbliżymy się do jakiegokolwiek z 
 ![Alt text](app/screeny_dokum/poblize_uniwersytet.png?raw=true "Splash Art")
 
 Do wykonania aplikacji użyte zostały Java-Android/TomTom API.
+
+Model biznesowy: 
+
+![Alt text](app/mojRzesz-1.jpg?raw=true "Splash Art")
