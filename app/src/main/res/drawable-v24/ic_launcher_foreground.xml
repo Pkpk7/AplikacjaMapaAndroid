@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+
+
+    <!--  TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    TUTAJ  BITMAPA LOGA!!!
+    ANDROID STUDIO HOW TO CREATE VECTOR
+    convert to SVG
+    file -> new -> vectro asset!!!!
+    <-->
+    <item >
+        <bitmap
+            android:src="@drawable/logo_mniejsze"
+            android:gravity="center" />
+    </item>
+
+</layer-list>
